@@ -7,6 +7,6 @@ public class Deth8 {
 
     @Override
     public String toString() {
-        return "А кощей тот, видимо, из Птира";
+        return "А кощей тот, видимо, из Питера";
     }
 }
